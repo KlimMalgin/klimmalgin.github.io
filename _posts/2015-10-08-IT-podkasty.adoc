@@ -2,6 +2,8 @@
 
 :hp-tags: IT, Tech, Frontend, Backend, Podcast, Relax
 
+Подборка подкастов по IT/Frontend, которые чем-то зацепили. Список не финальный. Со временем будут появляться новые.
+
 ### RadioJS
 http://radiojs.ru/
 
