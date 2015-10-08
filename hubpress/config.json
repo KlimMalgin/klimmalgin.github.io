@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "klimmalgin",
-    "repositoryName": "klimmalgin.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"klimmalgin","repositoryName":"klimmalgin.github.io","branch":"master"},"site":{"title":"KlimMalgin Blog","url":"https://klimmalgin.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//klimmalgin.github.io/themes/Casper"}}
