@@ -659,6 +659,7 @@ margin on the iframe, cause it breaks stuff. */
     letter-spacing: -1px;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
+    text-shadow: 0 0 9px rgba(0,0,0,0.4);
     color: #fff;
 }
 
