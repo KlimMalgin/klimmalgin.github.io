@@ -3,4 +3,5 @@
 :hp-tags: JS, Application, Namespace, MustDeps
 
 Оформить App.ns в отдельную библиотеку и расписать варианты его применения здесь.
-Рабочее название библиотеки: MustDeps
+Название библиотеки: NamespaceJS
+Репозиторий: https://github.com/KlimMalgin/NamespaceJS
