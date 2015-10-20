@@ -1,6 +1,9 @@
-# Организация пространства имен в JavaScript-приложении
+# Организация зависимостей и пространства имен в MeteorJS-приложении
 
-:hp-tags: JS, Application, Namespace, MustDeps
+:hp-tags: JavaScript, MeteorJS, Application, Namespace
+
+
+
 
 Оформить App.ns в отдельную библиотеку и расписать варианты его применения здесь.
 Название библиотеки: NamespaceJS
